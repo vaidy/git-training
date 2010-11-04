@@ -14,3 +14,5 @@ Second Day
 - Content - Not Files
 - git commit -a
 - git commit -v
+- git log
+- 
