@@ -1,8 +1,14 @@
+First Day
+---------
 - Notes from the screencast: http://help.github.com/git-cheat-sheets/
-
 - Linus Torvalds
 - Can do everything offline - Branching, Merging, Reverting, Committing
 - Distributed - push/pull/from/to/any repo
 - Create branches all the time - much easier
 - much cleaner - no .svn files throughout your directory
 - whitespace, aliases
+
+Second Day
+----------
+
+- Content - Not Files
