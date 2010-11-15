@@ -16,3 +16,9 @@ Second Day
 - git commit -v
 - git log
 - 
+
+Third Day
+---------
+
+- Recap
+- Making further changes to Master
