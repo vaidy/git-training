@@ -29,9 +29,11 @@ Third Day
 - Merge changes from branch back into master
 - Change made to master BEFORE merging changes from branch-1
 - Reset - haven't tried it
-- 
+- What add really does - queueing changes
+- Demo two versions of this file - one queued (or 'staged') and the 'not queued' version
 
 Questions
 ---------
 
 - Find out why it says 2 files instead of the actual number that was initially checked in
+- Isn't 'add' only for new files?
