@@ -1,0 +1,24 @@
+---
+ training.txt |    7 ++++++-
+ 1 files changed, 6 insertions(+), 1 deletions(-)
+
+diff --git a/training.txt b/training.txt
+index 0c7bae986112c2ae977b301688cb6994ad1caba8..ed3b785640762d360f47e70bad194150ce624bc3 100644
+--- a/training.txt
++++ b/training.txt
+@@ -15,4 +15,9 @@ Second Day
+ - git commit -a
+ - git commit -v
+ - git log
+-- 
+\ No newline at end of file
++- 
++
++Questions
++---------
++
++- Find out why it says 2 files instead of the actual number that was initially checked in
+\ No newline at end of file
+-- 
+1.5.6.1.1071.g76fb
+

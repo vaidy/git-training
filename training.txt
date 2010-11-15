@@ -22,3 +22,8 @@ Third Day
 
 - Recap
 - Making further changes to Master
+
+Questions
+---------
+
+- Find out why it says 2 files instead of the actual number that was initially checked in
