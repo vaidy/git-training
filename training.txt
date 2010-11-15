@@ -22,5 +22,14 @@ Third Day
 
 - Recap
 - Making further changes to Master
+- Try to make some changes and switch the branch without committing
+- Testing issue with "update" when switching branches
+- Demo rebase with merge
+- Do a diff between master and branch
+- Merge changes from branch back into master
 - Change made to master BEFORE merging changes from branch-1
 
+Questions
+---------
+
+- Find out why it says 2 files instead of the actual number that was initially checked in
