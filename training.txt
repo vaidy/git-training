@@ -23,6 +23,7 @@ Third Day
 - Recap
 - Making further changes to Master
 - Try to make some changes and switch the branch without committing
+- Testing issue with "update" when switching branches
 
 Questions
 ---------
