@@ -22,3 +22,5 @@ Third Day
 
 - Recap
 - Making further changes to Master
+- Change made to master BEFORE merging changes from branch-1
+
