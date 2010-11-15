@@ -28,6 +28,8 @@ Third Day
 - Do a diff between master and branch
 - Merge changes from branch back into master
 - Change made to master BEFORE merging changes from branch-1
+- Reset - haven't tried it
+- 
 
 Questions
 ---------
