@@ -15,7 +15,6 @@ Second Day
 - git commit -a
 - git commit -v
 - git log
-- 
 
 Third Day
 ---------
@@ -31,6 +30,7 @@ Third Day
 - Reset - haven't tried it
 - What add really does - queueing changes
 - Demo two versions of this file - one queued (or 'staged') and the 'not queued' version
+- This change is being made BEFORE stashing
 
 Questions
 ---------
