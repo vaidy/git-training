@@ -29,7 +29,14 @@ Third Day
 - Merge changes from branch back into master
 - Change made to master BEFORE merging changes from branch-1
 - Reset - haven't tried it
-- 
+
+Fourth day
+---------
+
+- Repositories
+- no real concept of client/server - depends on where you clone from
+- push/pull is for the current branch
+- git remote
 
 Questions
 ---------
